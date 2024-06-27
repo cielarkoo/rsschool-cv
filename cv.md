@@ -1,6 +1,6 @@
 # Ekaterina Babenko
 ## contacts for communication on discort-server rs school: nickname  Ekaterina Babenko (@cielarkoo)
-![foto](C:\Users\bea\Desktop\2024-06-GIT\foto.png)
+![foto](images\foto.png)
 
 I have been developing as a manager for 12 years, I have 14 years of experience in supporting systems aimed at solving problems in the field of financial settlements.
 
