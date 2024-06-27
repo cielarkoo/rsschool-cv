@@ -14,5 +14,6 @@ I have been developing as a manager for 12 years, I have 14 years of experience 
 * I maintain a balance between delegation and independent competent decisions.
 
 ## Projects:
-[my first project](https://cielarkoo.github.io/rsschool-cv/cv)
+
+1. [my first project](https://cielarkoo.github.io/rsschool-cv/cv)
 
