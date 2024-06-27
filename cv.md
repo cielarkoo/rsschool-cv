@@ -13,5 +13,5 @@ I have been developing as a manager for 12 years, I have 14 years of experience 
 * I can organize and motivate a team to complete tasks efficiently and on time;
 * I maintain a balance between delegation and independent competent decisions.
 
-
+## my first progect https://cielarkoo.github.io/rsschool-cv/cv
 
