@@ -13,5 +13,13 @@
     font-family: "Nunito", sans-serif;
     * {
         box-sizing: border-box;
-       }
+               }
+    border: 1px solid red;
+    min-height: 100vh;
+    margin: 0; padding: 0;  
+}
+body{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
