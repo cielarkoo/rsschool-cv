@@ -17,11 +17,9 @@
     border: 1px solid red;
     min-height: 100vh;
     margin: 0; padding: 0;  
-}
-body{
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
+    display: flex;
+   flex-direction: column;
+   justify-content: space-between;
 }
 .container {
   max-width: 1440px;
@@ -31,16 +29,25 @@ body{
   display: flex;
   justify-content: flex-end;
   align-items: center;
-  }
-  .nav-list {
-    list-style: none; /* убрали стандартные маркеры */
-        
-  }
+  list-style: none; /* убрали стандартные маркеры */
+    }
   .nav-link {
-    padding: 0 20px;     line-height: 50px;
-    text-decoration: none; /* убрали подчеркивание ссылок */
-    color: darkgreen; /* цвет текста ссылки */  }
-html {
+    background-color: gray; /* Светло-голубой фон */
+    color: black; /* Цвет текста */
+    padding: 5px 5px; /* Внутренние отступы */
+    text-decoration: none; /* Убираем подчеркивание текста */
+    border-radius: 4px; /* Скругленные углы */
+    transition: background-color 0.3s; /* Плавный переход */
+  }
+  
+  .nav-link:hover { /* свойства элемента при наведении указываем при помощи псевдокласса */
+    background-color: palevioletred; /* фон при наведении */
+    color: white; /* Цвет текста при наведении */
+    text-decoration: underline;
+}
+
+  html 
+{
   scroll-behavior: smooth; /* для плавной прокрутки страницы после клика на ссылку */
   
 }
