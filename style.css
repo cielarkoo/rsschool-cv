@@ -23,3 +23,24 @@ body{
   flex-direction: column;
   justify-content: space-between;
 }
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+.nav-list {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  }
+  .nav-list {
+    list-style: none; /* убрали стандартные маркеры */
+        
+  }
+  .nav-link {
+    padding: 0 20px;     line-height: 50px;
+    text-decoration: none; /* убрали подчеркивание ссылок */
+    color: darkgreen; /* цвет текста ссылки */  }
+html {
+  scroll-behavior: smooth; /* для плавной прокрутки страницы после клика на ссылку */
+  
+}
