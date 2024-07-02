@@ -51,3 +51,16 @@
   scroll-behavior: smooth; /* для плавной прокрутки страницы после клика на ссылку */
   
 }
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.section {
+  width: 50%;
+}
+
+@media (max-width: 768px) { /*указываем, что при уменьшении ширины экрана до 768px, секция будет занимать всю ширину*/
+  .section {
+    width: 100%;
+  }
+}
